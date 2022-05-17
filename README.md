@@ -1,5 +1,5 @@
-# Hackintosh-EFI-Lenovo-M710Q-QTJ1
-## 联想M710Q，魔改QTJ1(i9 10980HK ES)，黑苹果EFI
+# Hackintosh-EFI-Lenovo-M910Q-QTJ1
+## 联想M910Q，魔改QTJ1(i9 10980HK ES)，黑苹果EFI
 
 首先感谢[原作者](https://github.com/Devinyu0616/Lenovo-M710Q-QTJ1-94360z4-Hackintosh)，我仅是做了较小的修改，以适配我的自选硬件。
 
@@ -12,7 +12,7 @@
 ### 自选硬件
 |   硬件    |   型号  |
 | -------- | :----: |
-| 主机 | 联想M710Q 魔改BIOS（青蛙家购买） |
+| 主机 | 联想M910Q 魔改BIOS（青蛙家购买） |
 | CPU | Intel Core i9 10980HK ES (QTJ1) |
 | 内存 | 玖合 DDR4 2666 16GB*2 |
 | 硬盘 | 西部数据 黑盘 SN750 1TB |
