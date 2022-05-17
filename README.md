@@ -38,5 +38,5 @@
 3. 如需使用此EFI，请***务必重新三码摇号***（适合OpenCore v0.8.0的OCC编辑器已放入本仓库，[图文教程](https://blog.csdn.net/xuanxue11/article/details/107873835)）
 
 ### 效果图
-![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-Lenovo-M710Q-QTJ1/blob/master/OpenCore%20v0.8.0%20%26%20macOS%2012.3.1%20(21E258)/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
-![PlatformInfo机型选择.png](https://github.com/demon3434/Hackintosh-EFI-Lenovo-M710Q-QTJ1/blob/master/OpenCore%20v0.8.0%20%26%20macOS%2012.3.1%20(21E258)/PlatformInfo%E6%9C%BA%E5%9E%8B%E9%80%89%E6%8B%A9.png "PlatformInfo机型选择")
+![关于本机.png](https://github.com/demon3434/Hackintosh-EFI-Lenovo-M910Q-QTJ1/blob/master/OpenCore%20v0.8.0%20%26%20macOS%2012.3.1%20(21E258)/%E5%85%B3%E4%BA%8E%E6%9C%AC%E6%9C%BA.png "关于本机")
+![PlatformInfo机型选择.png](https://github.com/demon3434/Hackintosh-EFI-Lenovo-M910Q-QTJ1/blob/master/OpenCore%20v0.8.0%20%26%20macOS%2012.3.1%20(21E258)/PlatformInfo%E6%9C%BA%E5%9E%8B%E9%80%89%E6%8B%A9.png "PlatformInfo机型选择")
