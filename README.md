@@ -1,6 +1,8 @@
 # Hackintosh-EFI-Lenovo-M710Q-QTJ1
 ## 联想M710Q，魔改QTJ1(i9 10980HK ES)，黑苹果EFI
 
+首先感谢[原作者](https://github.com/Devinyu0616/Lenovo-M710Q-QTJ1-94360z4-Hackintosh)，我仅是做了较小的修改，以适配我的自选硬件。
+
 ### 软件版本
 | 软件 | 版本 |
 | --- | :--: |
